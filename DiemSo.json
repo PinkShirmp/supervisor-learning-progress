@@ -1,7 +1,19 @@
 {
-  "LOP11":{
-    "TEST":{
-      "TOAN":10
+  "Codes":{
+    "WELCOME26":{
+      "Coins":100
     },
+    "NINEELEVEN":{
+      "Coins":911
+    },
+    "TUSDANG":{
+      "Coins":911
+    },
+    "THEMBULOLQUA":{
+      "Coins":100
+    },
+    "TUEDEPZAI":{
+      "Coins":5000
+    }
    }
 }
